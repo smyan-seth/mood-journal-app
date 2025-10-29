@@ -1,6 +1,4 @@
-# MOOD-JOURNAL-APP
-
-Mood Journal App
+#Mood Journal App
 ----------------
 A simple Python application to log daily notes and mood ratings.
 Features:
