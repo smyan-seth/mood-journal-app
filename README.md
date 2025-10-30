@@ -5,6 +5,9 @@
 <li>Add daily entries</li>
 <li>Track mood (1–10 scale)</li>
 <li>Store entries in text file</li>
+<li>Get total entries</li>
+<li>Get average moods</li>
+<li></li>
 </ul>
 <p><b>Tech Stack:</b> Python, datetime</p>
 
