@@ -8,5 +8,5 @@
 <li>Get total entries</li>
 <li>Get average moods</li>
 </ul>
-<p><b>Tech Stack:</b> Python, datetime</p>
+<p><b>Tech Stack:</b> Python</p>
 
