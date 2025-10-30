@@ -7,7 +7,6 @@
 <li>Store entries in text file</li>
 <li>Get total entries</li>
 <li>Get average moods</li>
-<li></li>
 </ul>
 <p><b>Tech Stack:</b> Python, datetime</p>
 
